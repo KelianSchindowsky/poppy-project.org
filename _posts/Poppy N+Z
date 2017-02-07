@@ -1,0 +1,31 @@
+---
+layout: single-column-cover
+lang: fr
+title: "l'expérience Poppy N+Z"
+description: "Poppy N et Poppy Z sont deux robots humanoid de la plateforme Poppy. Ils sont les stars des résidences Poppy N+Z. Petite review de la session qui a eu lieu le 20 Hanvier au Dôme de Talence."
+cover_title: "L'expérience Poppy N+Z"
+cover_image: "insert image"
+cover_gradient: true
+cover_size: small
+published: true
+categories:
+  - fr
+---
+
+## Une aventure mêlant les arts et la science !
+
+Les Poppy Humanoid ont brillé lors de la représentation artistique Poppy N+Z qui a eu lieu le vendredi 20 Janvier, au dôme de Talence.
+
+Poppy N+Z est un projet qui s'inscrit entre Art et Sciences. Des ingénieurs (de l’équipe Flowers d’Inria Bordeaux) ont collaboré avec des artistes pour créer une expérimentation artistique mêlant la danse, la musique, la philosophie et la robotique.
+
+Nous y avons découvert ce que sont des phonèmes : un phonème est la plus petite unité discrète ou distinctive (c'est-à-dire permettant de distinguer des mots les uns des autres, par exemple chat et rat). Leur retentissement animaient le corps des danseurs et activaient les robots pour donner vie à des séquences chorégraphiées.
+
+Ainsi on a vu apparaître sur scène des couples de danseur bien originaux. Poppy N avait pour partenaire la danseuse Bi-Jia Yang et Poppy Z, le danseur Marius Sawadogo. Mais ce ne sont pas les seuls personnages de cette histoire : Deux musiciens, Leos Atos et Benoît Bottex, ont rythmé la performance de vibrations acoustique et de sonorités électronique. Le philosophe Ludovic Duhem et la metteuse en scène Emmanuelle Grangier, quant à eux, étaient les conteurs de cette aventure, usant de belles phrases et de phonèmes. 
+
+Bi-Jia Yang et Marius Sawadogo étaient équipés de capteurs (centrales inertielles) qui permettaient à Poppy N et Poppy Z de comprendre leur mouvement en temp réel. Ils interagissaient ensemble devant nos yeux ! De là, naît un langage qui permettra aux Poppy Humanoid de communiquer entre eux (chaque phonème sollicite une partie du corps des danseurs et des robots).
+
+Le projet Poppy N+Z est ainsi basé sur une hypothèse qui tient le spectateur en haleine durant toute la représentation : au départ, les robots sont identiques, mais au bout d'un certain nombre de rencontre avec leurs partenaires respectifs, Poppy N et Poppy Z arriveront à construire deux langages différents qui les rendront singulier !
+
+Retrouvez le reste des photos de cet incroyable moment sur [le compte fickr][1]
+
+[1]: https://www.flickr.com/photos/poppy-project/albums/72157676428147304
